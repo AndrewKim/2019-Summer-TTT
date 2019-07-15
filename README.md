@@ -13,5 +13,9 @@
 4. Python의 제어문(1) 조건문과 반복문
 5. Python의 제어문(2) 순회문
 6. Exercise, 파이썬 문제 풀기 
+7. Deep Learning의 기초, Perceptron
+8. 신경망의 구조
+9. Tensorflow을 이용한 Feed Forward Network 구현하기
+10. [Optional] Tensorflow을 이용한 MNIST Training 하기
 
 
